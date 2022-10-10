@@ -11,4 +11,5 @@ Format:
 
 |s.n. | Project |
 |---- | ------- |
+|1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
 <!-- You can just paste the above format and edit here. Don't forget to remove this comment -->
