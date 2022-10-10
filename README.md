@@ -12,4 +12,6 @@ Format:
 |s.n. | Project |
 |---- | ------- |
 |1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
+|2.|[C_programs](https://github.com/Romeo-Aryal/C-program-fest2022)
 <!-- You can just paste the above format and edit here. Don't forget to remove this comment -->
+
