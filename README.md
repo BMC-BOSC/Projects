@@ -12,6 +12,8 @@ Format:
 |s.n. | Project |
 |---- | ------- |
 |1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
+|2.|[C_programs](https://github.com/Romeo-Aryal/C-program-fest2022)
+<!-- Add the link of the repo just above this line. -->
 
 # Contributors
 Thanks to all the contributors. 
