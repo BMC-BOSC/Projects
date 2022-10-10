@@ -14,7 +14,8 @@ Format:
 |1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
 
 # Contributors
-Thanks to all the contributors 
+Thanks to all the contributors. 
+<br><br>
 <a href="https://github.com/BMC-BOSC/Projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=BMC-BOSC/Projects" />
 </a>
