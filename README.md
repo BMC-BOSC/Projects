@@ -13,11 +13,6 @@ Format:
 |---- | ------- |
 |1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
 |2.|[C_programs](https://github.com/Romeo-Aryal/C-program-fest2022)
-<!-- Add the link of the repo just above this line. -->
+|3.|[Any_program](https://github.com/Romeo-Aryal/EveryProgram-Hactoberfest)
+<!-- You can just paste the above format and edit here. Don't forget to remove this comment -->
 
-# Contributors
-Thanks to all the contributors. 
-<br><br>
-<a href="https://github.com/BMC-BOSC/Projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BMC-BOSC/Projects" />
-</a>
