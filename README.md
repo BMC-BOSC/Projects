@@ -12,4 +12,9 @@ Format:
 |s.n. | Project |
 |---- | ------- |
 |1.|[Web_Effects](https://github.com/basantasharma/HTML_CSS_Effects.git)|
-<!-- You can just paste the above format and edit here. Don't forget to remove this comment -->
+
+# Contributors
+Thanks to all the contributors 
+<a href="https://github.com/BMC-BOSC/Projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BMC-BOSC/Projects" />
+</a>
